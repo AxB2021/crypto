@@ -1,0 +1,12 @@
+{
+    "name": "bootsy",
+    "symbol": "BOOTS",
+    "description": "About a dog",
+    "image": "https://raw.githubusercontent.com/AxB2021/crypto/main/logo.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
